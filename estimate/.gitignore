@@ -33,3 +33,6 @@
 ################## powell added these
 #vim files
 *.swp
+
+# db lock files
+*.lock.db
